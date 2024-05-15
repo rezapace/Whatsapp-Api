@@ -1,7 +1,7 @@
 <!-- create logo in midle readme md  -->
 
 <p align="center">
-  <img src="Weblast\picture\logo\WEBLAST.png" alt="Weblast" width="200" height="200">
+  <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/Weblast/picture/logo/WEBLAST.png?raw=true" alt="Weblast" width="200" height="200">
 </p>
 
 # Weblast
