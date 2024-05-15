@@ -45,7 +45,7 @@ Introducing WA Sender: the ultimate browser extension for streamlined WhatsApp m
 
 5. click load unpacked and select the extracted file name weblast
 
-you can watch the video tutorial [here](https://www.youtube.com/watch?app=desktop&v=bs4WGDWT5L8)
+you can watch the video tutorial [here](https://youtube.com/playlist?list=PLRzM0GJRyhbkKhUBk9DP7TlXXH7pcrIaN&si=Zacvo8AG74WscAkT)
 
 ## Gallery
 
