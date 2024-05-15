@@ -2,6 +2,8 @@
 
 Whatsapp Api is a chrome extension that allows you to send messages to multiple contacts at once. This extension is very useful for those of you who want to send messages to many people at once. This extension is very easy to use and has a user-friendly interface.
 
+visit our website [WESTORE.MY.ID](https://westore.my.id/)
+
 <table>
   <tr>
     <td align="center">
