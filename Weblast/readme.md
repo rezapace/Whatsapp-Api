@@ -55,27 +55,27 @@ you can watch the video tutorial [here](https://www.youtube.com/watch?app=deskto
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/Weblast/picture/3)%20MOCUP/weblast%20Transparant%20Background/1.png?raw=true" alt="Weblast" width="200" height="200">
+      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/Weblast/picture/3)%20MOCUP/weblast%20Transparant%20Background/1.png?raw=true" alt="Weblast" width="300" height="300">
       <p>Tampilan awal whatsapp Blast</p>
     </td>
     <td align="center">
-      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/Weblast/picture/3)%20MOCUP/weblast%20Transparant%20Background/2.png?raw=true" alt="Weblast" width="200" height="200">
+      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/Weblast/picture/3)%20MOCUP/weblast%20Transparant%20Background/2.png?raw=true" alt="Weblast" width="300" height="300">
       <p>Setting delay batch</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/Weblast/picture/3)%20MOCUP/weblast%20Transparant%20Background/3.png?raw=true" alt="Weblast" width="200" height="200">
+      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/Weblast/picture/3)%20MOCUP/weblast%20Transparant%20Background/3.png?raw=true" alt="Weblast" width="300" height="300">
       <p>fitur tambahan blur image dll</p>
     </td>
     <td align="center">
-      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/Weblast/picture/3)%20MOCUP/weblast%20Transparant%20Background/4.png?raw=true" alt="Weblast" width="200" height="200">
+      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/Weblast/picture/3)%20MOCUP/weblast%20Transparant%20Background/4.png?raw=true" alt="Weblast" width="300" height="300">
       <p>Export contact & Group Whatsapp</p>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/Weblast/picture/3)%20MOCUP/weblast%20Transparant%20Background/5.png?raw=true" alt="Weblast" width="200" height="200">
+      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/Weblast/picture/3)%20MOCUP/weblast%20Transparant%20Background/5.png?raw=true" alt="Weblast" width="300" height="300">
       <p>Tampilan output saat Blast</p>
     </td>
   </tr>
