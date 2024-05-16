@@ -1,10 +1,10 @@
 <!-- create logo in midle readme md  -->
 
 <p align="center">
-  <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WeBroadcast/picture/LOGO/weBroadcast.png?raw=true" alt="Weblast" width="120" height="120">
+  <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WeBroadcast/picture/LOGO/weBroadcast.png?raw=true" alt="WeSender" width="120" height="120">
 </p>
 
-# Weblast
+# WeSender
 
 Introducing WA Sender: the ultimate browser extension for streamlined WhatsApp marketing. Manage contacts, validate numbers, and schedule campaigns effortlessly. Enhance messages with multimedia, gain insights through reports, all on Chrome and Edge. Revolutionize your strategy today! 
 
@@ -43,7 +43,7 @@ Introducing WA Sender: the ultimate browser extension for streamlined WhatsApp m
 
 4. enable developer mode
 
-5. click load unpacked and select the extracted file name weblast
+5. click load unpacked and select the extracted file name WeSender
 
 you can watch the video tutorial [here](https://youtube.com/playlist?list=PLRzM0GJRyhbnMjo8FdgTisJdZwRGqfUOt&si=AzPJL53JrARTGYFk)
 
@@ -52,28 +52,30 @@ you can watch the video tutorial [here](https://youtube.com/playlist?list=PLRzM0
 <!-- buat agar menjadi gambar dan deskripsi -->
 
 
-<table>
+<table style="border-collapse: collapse; width: 100%">
   <tr>
-    <td align="center">
-      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WeBroadcast/picture/3)%20MOCUP/WeBroadCast%20Transparant/1.png?raw=true" alt="Weblast" width="300" height="300">
-      <p>Tampilan awal whatsapp Blast</p>
+    <td style="width: 50%; text-align: center; padding: 10px">
+      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WeBroadcast/picture/3)%20MOCUP/WeBroadCast%20Transparant/1.png?raw=true" alt="WeSender" width="300" height="300">
+      <p style="font-size: 18px; font-weight: bold; margin-bottom: 10px">Tampilan awal whatsapp Blast</p>
     </td>
-    <td align="center">
-      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WeBroadcast/picture/3)%20MOCUP/WeBroadCast%20Transparant/2.png?raw=true" alt="Weblast" width="300" height="300">
-      <p>fitur tambahan hide dan blur</p>
+    <td style="width: 50%; text-align: center; padding: 10px">
+      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WeBroadcast/picture/3)%20MOCUP/WeBroadCast%20Transparant/2.png?raw=true" alt="WeSender" width="300" height="300">
+      <p style="font-size: 18px; font-weight: bold; margin-bottom: 10px">Fitur tambahan hide dan blur</p>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WeBroadcast/picture/3)%20MOCUP/WeBroadCast%20Transparant/3.png?raw=true" alt="Weblast" width="300" height="300">
-      <p>export contact/group</p>
+    <td style="width: 50%; text-align: center; padding: 10px">
+      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WeBroadcast/picture/3)%20MOCUP/WeBroadCast%20Transparant/3.png?raw=true" alt="WeSender" width="300" height="300">
+      <p style="font-size: 18px; font-weight: bold; margin-bottom: 10px">Export contact/group</p>
     </td>
-    <td align="center">
-      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WeBroadcast/picture/3)%20MOCUP/WeBroadCast%20Transparant/4.png?raw=true" alt="Weblast" width="300" height="300">
-      <p>output whatsapp blast</p>
+    <td style="width: 50%; text-align: center; padding: 10px">
+      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WeBroadcast/picture/3)%20MOCUP/WeBroadCast%20Transparant/4.png?raw=true" alt="WeSender" width="300" height="300">
+      <p style="font-size: 18px; font-weight: bold; margin-bottom: 10px">Output whatsapp blast</p>
     </td>
   </tr>
 </table>
+
+
 
 
 
