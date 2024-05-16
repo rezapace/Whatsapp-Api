@@ -1,10 +1,10 @@
 <!-- create logo in midle readme md  -->
 
 <p align="center">
-  <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WePlus/picture/LOGO/WEPLUS%20(2).png?raw=true" alt="Weblast" width="120" height="120">
+  <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WePlus/picture/LOGO/WEPLUS%20(2).png?raw=true" alt="WePlus" width="120" height="120">
 </p>
 
-# Weblast
+# WePlus
 
 Introducing WA Sender: the ultimate browser extension for streamlined WhatsApp marketing. Manage contacts, validate numbers, and schedule campaigns effortlessly. Enhance messages with multimedia, gain insights through reports, all on Chrome and Edge. Revolutionize your strategy today! 
 
@@ -43,7 +43,7 @@ Introducing WA Sender: the ultimate browser extension for streamlined WhatsApp m
 
 4. enable developer mode
 
-5. click load unpacked and select the extracted file name weblast
+5. click load unpacked and select the extracted file name WePlus
 
 you can watch the video tutorial [here](https://youtube.com/playlist?list=PLRzM0GJRyhbkSeEx6QjY9sVqOCIUYBfyh&si=LEurDJtz2no0e0o_)
 
@@ -55,21 +55,21 @@ you can watch the video tutorial [here](https://youtube.com/playlist?list=PLRzM0
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WePlus/picture/3)%20MOCUP/WePlus%20Transparant/1.png?raw=true" alt="Weblast" width="300" height="300">
+      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WePlus/picture/3)%20MOCUP/WePlus%20Transparant/1.png?raw=true" alt="WePlus" width="300" height="300">
       <p>Tampilan awal whatsapp Blast</p>
     </td>
     <td align="center">
-      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WePlus/picture/3)%20MOCUP/WePlus%20Transparant/2.png?raw=true" alt="Weblast" width="300" height="300">
+      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WePlus/picture/3)%20MOCUP/WePlus%20Transparant/2.png?raw=true" alt="WePlus" width="300" height="300">
       <p>Tampilan Advance</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WePlus/picture/3)%20MOCUP/WePlus%20Transparant/3.png?raw=true" alt="Weblast" width="300" height="300">
+      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WePlus/picture/3)%20MOCUP/WePlus%20Transparant/3.png?raw=true" alt="WePlus" width="300" height="300">
       <p>Export Contact gorup dll</p>
     </td>
     <td align="center">
-      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WePlus/picture/3)%20MOCUP/WePlus%20Transparant/4.png?raw=true" alt="Weblast" width="300" height="300">
+      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WePlus/picture/3)%20MOCUP/WePlus%20Transparant/4.png?raw=true" alt="WePlus" width="300" height="300">
       <p>Export contact & Group Whatsapp</p>
     </td>
   </tr>

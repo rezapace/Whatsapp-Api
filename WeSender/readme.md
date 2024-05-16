@@ -1,10 +1,10 @@
 <!-- create logo in midle readme md  -->
 
 <p align="center">
-  <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WeSender/picture/LOGO/wesender%20(1).png?raw=true" alt="Weblast" width="120" height="120">
+  <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WeSender/picture/LOGO/wesender%20(1).png?raw=true" alt="WeSender" width="120" height="120">
 </p>
 
-# Weblast
+# WeSender
 
 Introducing WA Sender: the ultimate browser extension for streamlined WhatsApp marketing. Manage contacts, validate numbers, and schedule campaigns effortlessly. Enhance messages with multimedia, gain insights through reports, all on Chrome and Edge. Revolutionize your strategy today! 
 
@@ -43,7 +43,7 @@ Introducing WA Sender: the ultimate browser extension for streamlined WhatsApp m
 
 4. enable developer mode
 
-5. click load unpacked and select the extracted file name weblast
+5. click load unpacked and select the extracted file name WeSender
 
 you can watch the video tutorial [here](https://youtube.com/playlist?list=PLRzM0GJRyhbnjkvlhI5PvXEOasKPxz9AA&si=uSIbMEr9LKaKCrkw)
 
@@ -55,27 +55,27 @@ you can watch the video tutorial [here](https://youtube.com/playlist?list=PLRzM0
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WeSender/picture/3)%20MOCUP/wesender%20Transparant%20Backgrond/1.png?raw=true" alt="Weblast" width="300" height="300">
+      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WeSender/picture/3)%20MOCUP/wesender%20Transparant%20Backgrond/1.png?raw=true" alt="WeSender" width="300" height="300">
       <p>Tampilan awal whatsapp Blast</p>
     </td>
     <td align="center">
-      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WeSender/picture/3)%20MOCUP/wesender%20Transparant%20Backgrond/2.png?raw=true" alt="Weblast" width="300" height="300">
+      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WeSender/picture/3)%20MOCUP/wesender%20Transparant%20Backgrond/2.png?raw=true" alt="WeSender" width="300" height="300">
       <p>tampilan output</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WeSender/picture/3)%20MOCUP/wesender%20Transparant%20Backgrond/3.png?raw=true" alt="Weblast" width="300" height="300">
+      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WeSender/picture/3)%20MOCUP/wesender%20Transparant%20Backgrond/3.png?raw=true" alt="WeSender" width="300" height="300">
       <p>export contact dan blast</p>
     </td>
     <td align="center">
-      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WeSender/picture/3)%20MOCUP/wesender%20Transparant%20Backgrond/4.png?raw=true" alt="Weblast" width="300" height="300">
+      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WeSender/picture/3)%20MOCUP/wesender%20Transparant%20Backgrond/4.png?raw=true" alt="WeSender" width="300" height="300">
       <p>fitur blur dan hide</p>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WeSender/picture/3)%20MOCUP/wesender%20Transparant%20Backgrond/5.png?raw=true" alt="Weblast" width="300" height="300">
+      <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WeSender/picture/3)%20MOCUP/wesender%20Transparant%20Backgrond/5.png?raw=true" alt="WeSender" width="300" height="300">
       <p>Tampilan output saat Blast</p>
     </td>
   </tr>
