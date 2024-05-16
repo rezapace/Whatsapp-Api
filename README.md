@@ -6,43 +6,43 @@ visit our website [WESTORE.MY.ID](https://westore.my.id/)
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" valign="middle">
         <a href="https://github.com/rezapace/Whatsapp-Api/tree/main/Weblast" target="_blank">
-            <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/Weblast/picture/logo/WEBLAST.png?raw=true" alt="Weblast" width="300" height="300">
-            <p>WeBlast</p>
+            <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/Weblast/picture/logo/WEBLAST.png?raw=true" alt="Weblast" width="150" height="150">
+            <p style="font-size: 18px; font-weight: bold;">WeBlast</p>
         </a>
     </td>
-    <td align="center">
+    <td align="center" valign="middle">
         <a href="https://github.com/rezapace/Whatsapp-Api/tree/main/WeBroadcast" target="_blank">
-            <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WeBroadcast/picture/LOGO/weBroadcast.png?raw=true" alt="Weblast" width="300" height="300">
-            <p>WeBroadcast</p>
+            <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WeBroadcast/picture/LOGO/weBroadcast.png?raw=true" alt="Weblast" width="150" height="150">
+            <p style="font-size: 18px; font-weight: bold;">WeBroadcast</p>
         </a>
     </td>
   </tr>
   <tr>
-      <td align="center">
+      <td align="center" valign="middle">
         <a href="https://github.com/rezapace/Whatsapp-Api/tree/main/WeBulk" target="_blank">
-            <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WeBulk/picture/LOGO/webulk%20(1).png?raw=true" alt="Weblast" width="300" height="300">
-            <p>WeBulk</p>
+            <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WeBulk/picture/LOGO/webulk%20(1).png?raw=true" alt="Weblast" width="150" height="150">
+            <p style="font-size: 18px; font-weight: bold;">WeBulk</p>
         </a>
     </td>
-        <td align="center">
+        <td align="center" valign="middle">
         <a href="https://github.com/rezapace/Whatsapp-Api/tree/main/WePlus" target="_blank">
-            <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WePlus/picture/LOGO/WEPLUS%20(2).png?raw=true" alt="Weblast" width="300" height="300">
-            <p>WePlus</p>
+            <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WePlus/picture/LOGO/WEPLUS%20(2).png?raw=true" alt="Weblast" width="150" height="150">
+            <p style="font-size: 18px; font-weight: bold;">WePlus</p>
         </a>
     </td>
   </tr>
   <tr>
-    </td>
-        <td align="center" colspan="2">
+    <td align="center" colspan="2" valign="middle">
         <a href="https://github.com/rezapace/Whatsapp-Api/tree/main/WeSender" target="_blank">
-            <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WeSender/picture/LOGO/wesender%20(1).png?raw=true" alt="Weblast" width="300" height="300">
-            <p>WePlus</p>
+            <img src="https://github.com/rezapace/Whatsapp-Api/blob/main/WeSender/picture/LOGO/wesender%20(1).png?raw=true" alt="Weblast" width="150" height="150">
+            <p style="font-size: 18px; font-weight: bold;">WeSender</p>
         </a>
     </td>
   </tr>
 </table>
+
 
 
 <!-- make it drop down -->
