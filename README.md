@@ -1,5 +1,12 @@
 # Whatsapp-Api
 
+<h1 align="center">
+  <br>
+<img src="https://github.com/rezapace/Whatsapp-Api/blob/main/Weblast/picture/3)%20MOCUP/weblast%20Transparant%20Background/1.png?raw=true" alt="WhatsApp Automate">
+  <br>
+WhatsApp Marketing Automate <a href="https://westore.my.id/m4heshd">WeStore.my.id</a>
+</h1>
+
 Whatsapp Api is a chrome extension that allows you to send messages to multiple contacts at once. This extension is very useful for those of you who want to send messages to many people at once. This extension is very easy to use and has a user-friendly interface.
 
 visit our website [WESTORE.MY.ID](https://westore.my.id/)
