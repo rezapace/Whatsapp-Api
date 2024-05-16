@@ -2,7 +2,7 @@
 
 <h1 align="center">
 <br>
-<img src="https://github.com/rezapace/Whatsapp-Api/blob/main/Weblast/picture/3)%20MOCUP/weblast%20Transparant%20Background/1.png?raw=true" alt="WhatsApp Automate" width="200">
+<img src="https://github.com/rezapace/Whatsapp-Api/blob/main/banner/banner.png?raw=true" alt="WhatsApp Automate">
   <br>
 
 WhatsApp Marketing Automate <a href="https://westore.my.id/m4heshd">WeStore.my.id</a>
